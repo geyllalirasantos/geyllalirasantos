@@ -1,4 +1,13 @@
-### Hi there 👋
+### Oi, sou Geylla!
+
+Jornalista de formação em transição de carreira.
+
+Estou aprendendo:
+
+            <i class="devicon-java-plain-wordmark"></i>
+          
+            <i class="devicon-python-plain-wordmark"></i>
+          
 
 <!--
 **geyllalirasantos/geyllalirasantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

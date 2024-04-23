@@ -3,7 +3,11 @@
 Jornalista de formação em transição de carreira.
 
 Estou aprendendo:
-Python | Java
+
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain-wordmark.svg" />
+          
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" />
+          
                     
 
 <!--

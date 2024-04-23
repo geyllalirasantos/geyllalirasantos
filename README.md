@@ -6,8 +6,9 @@ Estou aprendendo:
 
             <i class="devicon-java-plain-wordmark"></i>
           
-            <i class="devicon-python-plain-wordmark"></i>
-          
+
+            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+                    
 
 <!--
 **geyllalirasantos/geyllalirasantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

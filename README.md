@@ -3,11 +3,7 @@
 Jornalista de formação em transição de carreira.
 
 Estou aprendendo:
-
-            <i class="devicon-java-plain-wordmark"></i>
-          
-
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+Python | Java
                     
 
 <!--

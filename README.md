@@ -1,5 +1,5 @@
 
-# Oi, eu sou Geylla!
+# Oi, sou Geylla!
 
 Sou uma jornalista de formação que está transicionando de carreira para o mundo dos códigos.
 

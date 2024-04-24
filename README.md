@@ -1,9 +1,12 @@
-### Oi, sou Geylla!
 
-Jornalista de formação em transição de carreira.
+# Oi, eu sou Geylla!
 
-Estou aprendendo:
-Java | Python
+Sou uma jornalista de formação que está transicionando de carreira para o mundo dos códigos.
+
+## 🛠 Habilidades
+Python | Java
+
+
                     
 
 <!--
